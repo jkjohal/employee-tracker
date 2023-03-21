@@ -1,4 +1,4 @@
-## Employee Tracker
+# Employee Tracker
 
 Employee tracker is a cms that allows users to keep track of users based on job title, department, manager, etc. 
 
